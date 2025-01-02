@@ -1,1 +1,1 @@
-# SQL-Data-Analyst-IPL-Database-Project-
+# SQL-Data-Analyst-IPL-Database-Project
