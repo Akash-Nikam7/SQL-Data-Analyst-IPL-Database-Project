@@ -1,5 +1,5 @@
 # SQL-Data-Analyst-IPL-Database-Project
-# IPL Analysis SQL Case Study (2019-2024)
+## IPL Analysis SQL Case Study (2019-2024)
 
 ## 📋 Overview
 
